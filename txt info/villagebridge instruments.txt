@@ -1,0 +1,119 @@
+instrument number starts with 1! start with 0 for sappy use
+
+customsoundv1
+Ins 1
+Lop 2793
+1467670
+
+customsoundv2
+Ins 2
+Lop 3009
+1468B3C
+
+customsoundv3
+Ins 3
+Lop 10641
+1469F90
+
+customsoundv4
+Ins 4
+Lop 4105
+146E094
+
+customsoundv5
+Ins 5
+Lop 6121
+1470060
+
+customsoundv6
+Ins 6
+Lop 1985
+1472AF4
+
+customsoundv7
+Lop 1961
+1473DC0
+
+customsoundv8
+Lop 7049
+1474ED4
+
+customsoundv9
+Lop 4737
+1477B50
+
+customsoundv10
+Lop 4889
+1479784
+ 
+customsoundv11
+Lop 5313
+147B1D0
+
+customsoundv12
+Lop 8305
+147D744
+
+customsoundv13
+Lop 2497
+1480400
+
+customsoundv14
+Lop 10281
+14811FC
+
+customsoundv15
+Lop 22689
+1484560
+
+customsoundv16
+Lop 1
+148BC8C
+
+customsoundv17 -
+Lop 3753
+148DC90
+
+customsoundv18
+Lop 10497
+148F6E4
+
+customsoundv19
+Lop 3105
+14930F8
+
+customsoundv20
+Lop 15577
+149483C
+
+customsoundv21
+Lop 1
+149A218
+
+customsoundv22
+Lop 1
+149C4BC
+
+customsoundv23
+Lop 1
+149E2F0
+
+customsoundv24
+Lop 1
+149FF94
+
+customsoundv25
+Lop 12433
+14A1AE0
+
+1 14A6C6C 34 35
+2 14A93B8 36
+3 14AA914 37
+4 14ABBD0 38
+5 14ACA8C 39
+6 14B02F8 40 41 42 43 44 45
+7 14B1A44 46
+8 14B2690 47 48 49 50 51 
+9 14B411C 52 53 54 55
+
+81 - 35 START

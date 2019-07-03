@@ -1,0 +1,70 @@
+HGSS Instruments
+Note: This list starts with 1, not 0, to be used easier with FL Studio.
+
+All HGSS Soundfonts/Voicegroups
+1 - Piano 1 BW!
+2 - Piano 2
+3 - Piano 3
+4 - Electric Piano 1
+5 - Electric Piano 2
+6 - Vibraphone
+7 - Marimba 
+8 - Xylophone
+9 - Tubular Bells
+10 - Glockenspiel BW! 255 240 0 185
+11 - Music Box
+12 - Drawbar Organ
+13 - Rock Organ
+14 - Accordion
+15 - Nylon Guitar
+16 - Steel Guitar
+17 - Overdriven Guitar
+18 - Distortion Guitar
+19 - Clavi
+20 - Acoustic Bass
+21 - Fretless Bass
+22 - Slap Bass BW Multi
+23 - Synth Bass 1
+24 - String Ensemble BW Modified
+25 - Violin
+26 - Viola
+27 - Pizzicato Strings
+28 - Orchestral Harp
+29 - Timpani
+30 - Trumpet BW Modified
+31 - Trombone
+32 - Tuba
+33 - French Horn BW Multi
+34 - English Horn
+35 - Clarinet
+36 - Flute
+37 - Bassoon
+38 - Orchestral Hit
+39 - Clavinet
+40 - Drum Kit / Percussion
+41 - Japanese Percussion
+42 - Jazz Guitar
+43 - Sitar
+45 - Wind SFX
+46 - Wind SFX?
+47 - Square Lead
+48 - Water Bubble SFX
+56 - Piccolo
+57 - Static/Noise SFX
+58 - Percussive Organ (DPPt)
+
+BANK_BGM_BATTLE4 (0x131B940)
+61 - Synth Drums
+62 - Sawtooth
+63 - Wind SFX
+64 - Slap Bass 2 (dppt)
+65 - Synth Bass 2 (dppt)
+66 - Choir Aahs
+68 - Sax
+
+BANK_BGM_BATTLE3 (0xXXXXXXX)
+62 - Timpani (DPPt)
+65 - Static/Noise SFX (one octave lower)
+66 - Choir Aahs
+68 - Sax
+

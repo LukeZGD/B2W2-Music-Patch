@@ -1,0 +1,70 @@
+starts in 1!
+0x1308590
+
+5 - fretless bass
+6 - piano (2i hgss)
+8 - acoustic piano
+10 - glockenspiel
+11 - vibraphone (6i hgss)
+12 - 7i (hgss)
+13 - 8i (hgss)
+14 - 8i (hgss)
+17 - flute
+18 - 12i (hgss)
+19 - acoustic guitar (15i hgss)
+21 - acoustic guitar (15i hgss)
+25 - acoustic guitar (16i hgss) 
+26 - acoustic bass
+27 - fretless bass
+28 - fretless bass
+29 - slap bass bw (multi channel)
+30 - synth bass
+31 - string
+32 - sq 50%
+33 - trumpet
+34 - viola
+35 - pizzicato
+36 - bw harp
+37 - orchestral harp
+39 - timpani
+40 - trumpet
+41 - trombone
+43 - french horn
+45 - english horn (34i hgss)
+46 - clarinet
+47 - timpani classic
+49 - flute
+50 - synth bass rarewild
+51 - bw sax
+52 - bw low trombone
+61 - bw trumpet
+62 - rarewild tuba
+64 - bw2 wbt brass
+81 - drumsz
+91 - bw2 guitar1
+92 - bw2 guitar2
+93 - bw2 guitar3
+94 - bw2 guitar4
+95 - square bw
+96 - sawtooth
+101 - viola
+105 - pizzicato
+125 - cheren b2w2 drumloop
+126 - slap bass bw (single channel)
+127 - drumsz marinetube/pwt
+128 - drumsz synth hgss
+
+voicegroups:
+1308590 - bw vg
+1312A60 - bw2
+12FAA90 - ghetsis
+12FB0B0 - marinetube/pwt
+1318CB0 - uni
+1325700 - PWTBWSF
+13192C0 - All Instrument
+
+codes:
+multistuffs
+freespace
+
+1334654

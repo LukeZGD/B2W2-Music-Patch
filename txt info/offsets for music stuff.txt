@@ -1,0 +1,53 @@
+-- CHANGE TRACK LIMIT FROM 10 TO 16
+RUBY    0x455474
+EMERALD 0x6B49C4
+FIRERED 0x4A32A0
+replace XX XX XX 03 0A with 00 E0 03 02 10
+
+-- CHANGE DIRECTSOUND LIMIT
+search 00 C5 94 00
+change C5 to CC (FR/LG/E) or C7 (R/S)
+
+-- CHANGE BASE NOTE OF SAMPLES
+8th byte of sample header (change octave)
+00 - C1
+01 - default
+03 - C2
+07 - C3
+
+-- SONGTABLE FOR B2W2 MUSIC PATCH
+songtable fr 14BEC00
+songtable ru 14BFC00
+songtable ru 131D670 1.0
+NEW SONGTABLE v2.0 121F520
+
+-- MUSIC MIXER STUFF --
+music mixer offset location
+1DD0B4 FR
+2E00F0 EM
+1DDE48 SA
+1DDED0 RU 1.1
+1DD090 LG
+1DDEB8 RU 1.0
+
+music mixer routine location (b2w2mp)
+15E9DC0 FR
+15E9280 EM
+1776C00 RU v1.3.1 and up
+15EA560 RU v1.2.3
+125EE20 RU 1.0
+B00000 SA and LG
+NEW ROUTINE LOCATION 12208C0
+
+music mixer orig address
+C1 CE 1D 08 - RU
+39 CE 1D 08 - SA
+81 C0 1D 08 - LG
+
+main sound area locations
+Fire Red (US): 0x03005F50
+Emerald (US, GER): 0x03006380
+Ruby and Sapphire 0x03005FD0
+
+find delta value
+00 01 04 09 10 19 24 31 C0 CF

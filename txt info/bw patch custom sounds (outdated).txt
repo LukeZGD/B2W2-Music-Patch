@@ -1,0 +1,632 @@
+GO TO THE NEW SPREADSHEET FOR THE UPDATED LIST!
+
+NOTE: The instrument number used here starts with 0! The drums starts with 1!
+
+Instrument slots used: 50, 51, 52, 53, 54, 55, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 83, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 97, 98, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127
+
+customsound1:
+Instrument No. - 97 
+Base Note - A#2
+1334670
+
+customsound2:
+Instrument No. - 98
+Base Note - C
+133774C -I 255 245 0 224
+
+customsoundgf1:
+Instrument No. - 110
+133C538 -I
+
+customsoundgf2:
+Instrument No. - 111
+135F89C -I
+
+customsoundgf3:
+Instrument No. - 112
+13634D8 -I
+
+customsoundgf4:
+Instrument No. - 113
+139BCD4 -I
+
+customsoundgf5:
+Instrument No. - 114
+13AAE00 -I
+
+gymleader synth bass
+Instrument No. - 79
+0x125C0E0 0x125C0F8 -B
+
+bw orchestra hit 
+Instrumetn No. - 125
+0x131D5D0 -B
+Att Dec Sus Rel - 255 0 225 165
+
+elite4 synth bass (customsoundel3)
+Instrument No. - 78
+13B3D3C -I
+lop 5500
+
+elite4 kick (customsoundel1)
+Instrument No. - 115
+13B637C -I
+
+elite4 snare (customsoundel2)
+Instrument No. - 116
+13B7D68 -I
+ 
+elite4 snare2 (customsoundel4)
+Instrument No. - 117
+13BA00C -I
+
+classic timpani
+Instrument No. - 100
+0x1315640 0x1315658 -B
+
+low trombone (customsound3)
+Instrument No. - 54
+13BB058 -I
+
+octave raise strings (customsound4)
+Instrument No. - 109
+13C0760 -I
+
+legendary1 string? (customsound5)
+Instrument No. - 108 
+
+reshiram sfx (customsound6)
+Instrument No. - 90
+13C7E6C -I
+
+zekrom sfx (customsound7)
+Instrument No. - 89
+13CE7A8 -I
+
+legendary2 sfx (customsound8)
+Instrument No. - 91
+13D2634 -I
+
+legendary2 sweep (customsound9)
+Instrument No. - 92
+13D5B58 -I
+loop 8113
+
+shore (customsound10)
+Instrument No. - 93
+13D8B4C -I
+LOOP 12561 
+165 0 165 165
+
+steel drum (customsound11)
+Instrument No. - 76
+13E4310 -I
+
+amen break hall of fame (customsound12)
+Instrument No. - 101
+13E6DE4 -I
+
+bw church organ (customsound14)
+Instrument No. - 75
+13FAB7C -I 255 0 255 205
+Loop Start 7900
+
+amen break world champion (customsound15)
+Instrument No. - 103
+13FFA80 -I
+
+bw rarewild synth bass (customsound16)
+Instrument No. - 49
+140737C -I
+Loop 8190 
+
+bw evolve glockenspiel (customsound17)
+Instrument No. - 118
+140A2D4 224 245 0 200
+
+opelucid black brass (customsound18)
+Instrument No. - 87
+140DDC8 155 0 155 165
+
+opelucid black lead (customsound19)
+Instrument No. - 88
+loop 15801
+1414E44 145 0 145 165
+
+plasma distorted guitar (customsound20)
+Instrument No. - 86
+loop 9500
+141CC58
+
+n final gunshot (customsound21)
+Instrument No. - 127
+1421A18
+
+GHETSIS choir1 (customsound22)
+Instrument No. - 119
+loop 13153
+1426624
+
+GHETSIS choir2 (customsound23)
+Instrument No. - 120
+142C140
+
+GHETSIS gong (customsound24)
+Instrument No. - 121
+loop 9561
+143305C 165 0 165 165
+
+GHETSIS taiko drum (customsound25)
+Instrument No. - 122
+loop 7473
+1436698 165 245 0 165
+
+customsoundel5 (bass f#1)
+Instrument No. - 94
+loop 6177
+1439634 165 0 165 165
+
+customsoundel6 (bass f#2)
+Instrument No. - 95
+loop 9465
+143C960 165 0 165 165
+
+diveruins sound (customsound31)
+Instrument No. - 96
+loop 5105
+1440404 255 250 0 165
+
+customsound26 (whistle route2)
+Instrument No. - 51 (1200000)
+loop 6817
+14427D8
+
+customsound27 (plasma clarinet?)
+Instrument No. - 50, 52
+loop 4609
+144626C 145 0 145 165
+
+customsound28 (plasma guitar2)
+Instrument No. - 51
+loop 11833
+1447D58
+
+customsound29 (plasma guitar3)
+Instrument No. - 53
+loop 8073
+144C69C
+
+customsound30 (plasma birdtweet)
+Instrument No. - 72
+1450C18
+
+customsound32 (lostforest flute)
+Instrument No. - 70
+loop 8497
+1454014
+
+customsound33 (villagebridge harpsichord)
+base c3
+loop 9553
+1459018
+
+customsoundel7 (bw orchestra hit for el4)
+Instrument No. - 104
+0x131D5D0 -B
+Att Dec Sus Rel - 15 0 165 165
+ 
+customdrum1 (kick&cymbal) 145D04C
+
+customdrum2 (snare roll) 145F618
+loop 1529 
+
+customdrum3 (plasma snare) 1460C44 
+255 245 0 165
+
+customdrum4 (rival click) 1461B90
+
+customdrum5 (cs4 rival click#)
+
+customdrum6 (opelucid snare) 14641E4
+
+customdrum7 (clap synth????) 14666E0 
+customdrum8 (clap synth???? one octave lower)
+Instrment84 (clap synth???? cs7-8) 
+
+customdrum9 (cs2 snare roll one octave higher)
+
+customsound34 (rival click) 14C1C60
+Instrument No. - 85
+
+customsound35 (bw trumpet) 14C266C
+Instrument No. - 105
+loop 9889 255 0 160 205 141692C
+
+customsoundel7 (el4 synth 1) 14C6700
+Instrument No. - 106
+loop 9569 1420D80 200 0 200 165
+
+customsoundel8 (el4 synth 2) 14CADB4
+Instrument No. - 107
+loop 7785 1425434 200 0 200 165
+
+customsound36 (bw orchestra hit 2) 14D04E0
+Instrument No. - 108
+loop 5825 255 245 0 165 
+
+customdrum10 (striaton1) 14D2F34
+
+customdrum11 (striaton2) 14D3DC8
+
+customdrum12 (bw close hihat) 14D9FB4 165 0 165 165
+
+customdrum13 (bw open hihat) 14DAD88
+
+customdrum14 (bw legendsnare) 14DCFFC
+
+customdrum15-16 (bw driftveildrum1) 14E0968
+
+customdrum17-18 (bw driftveildrum2) 14E1C4C
+
+customsound37 (bw castelia city sax1)
+Instrument No. - 68 14E6D40
+loop 13761 root c3
+sax MULTI
+customsound37 14E6D40 185 0 185 185
+customsound38 14EBB84
+Address1 15D2BB8
+Address2 15D2BDC
+
+
+
+customsound38
+Instrument No. - 69 14EBB84
+loop 14385 root c4
+
+customdrum19 (striaton3) 14E37B8
+
+customdrum20 (bw acoustic snare) 14E55C4
+
+customdrum21a (bw synth bassdrum) 1581690
+replaced from
+60 > 36, 37
+1313680 255 245 255 165
+36 C1 37 C#1
+
+customdrum22a (bw open triangle) 15851FC
+
+customsound39 (levelup 2) 158E930
+inst no 73 255 245 0 224
+loop 13201
+
+customsound40 (opelucid white s) 159B938
+inst no 74
+loop 10217
+
+new piano inst 0 (multi)
+customsound41 15A0E5C 11841
+customsound42 15A5C80 12289
+customsound43 15AAAF4 11969
+customsound44 15AF898 10721
+Address1 0x15B41C4
+Address2 0x15B4200
+HGSSPianoAddress1 0x1200610
+HGSSPianoAddress2 0x120064C
+
+customsound21b (bw ac kick) 15B4280
+
+new french horn inst 32 (multi)
+customsound45 15B57D4 14017
+customsound46 15BA618 10995
+HGSSAddress1 0x1288AF0
+HGSSAddress2 0x1288B14
+Address1 15BFB90 
+Address2 15BFBB4
+
+new glockenspiel (customsound47) 
+15BFC34
+loop 12305 250 240 0 185
+
+bwchoir2 (customsound48) l 14952 15C4B40
+bwchoir3 (customsound49) l 14713 15CCDA0
+CUSTOMSOUND13 0x13F6130 255 205 105 100
+MULTI CHOIR i 102
+Address1 15D2B14
+Address2 14D2B38
+
+
+customsound50 (n final noise)
+loop 641
+inst 83
+15D2C5C
+
+customsound51 (bw rarewild tuba)
+inst 61 (bws 1308590)
+loop 20106
+15D4170
+
+customsound52 (bw trumpet 1 octave lower)
+inst 60 (bws 1308590)
+loop 19771
+15E0BA0
+
+B2W2 GUITAR MULTI (126)
+customsounb1 l 26816 15F2010
+customsounb2 l 24364 15FCF64
+customsounb3 l 14475 1608140
+customsounb4 l 13200 160F114
+Address1 161AC6C
+Address2 161ACA8
+
+customdrum1c (neo plasma kickdrum) 16224EC
+DRUMSET 60 > 0 AND 1
+
+customsounb5 (neo plasma sfx)
+Inst no. - 102
+loop 1409 1623418
+
+customsounb6 (neo plasma sfx)
+Inst no 103 16243f4
+
+customsounb7 (neo plasma sfx)
+Inst no 104 1627890
+
+customdrum24b (colress snare)
+Base note A2 16314C0
+
+customdrum25b (bw closed hat c#)
+
+customdrum26b (hugh snare) 165750C
+
+customsounb8 (colress 5!)
+Inst 113 163563C
+
+customsounb9 (colress 4!)
+Inst 112 1637BF8
+
+customsounb10 (colress 3!)
+Inst 111 1639CF4
+
+customsounb11 (colress 2!)
+Inst 110 163BD70
+
+customsounb12 (colress 1!)
+Inst 108 163D9E4
+
+customsounb13 (colress drum loop)
+Inst 93 163EF60
+
+customsounb14 (colress hit)
+loop 9537
+Inst 50 1647324
+
+customsounb15 (colress sweep sfx)
+loop 19257
+inst 51 164A7A0
+
+customsounb17 (square 50%)
+loop 3485
+Inst 127 165D8FC
+
+customsounb18 (b2w2 cheren drumloop)
+inst 124 1666010
+
+ghetsis voicegroup 1319DC0
+customdrumt (ghetsis toms) 166F9D4
+inst 50
+inst 58
+
+customsounb19 (ghetsis hchoir1) 1672F78
+inst 115
+
+customsounb20 (ghetsis hchoir2) 167996C
+loop 12737
+inst 114
+
+customsounb21 (ghetsis hit?) 167E254
+inst 127
+
+customsounb22 (bw2 kyurem gong) 1683B3C
+INST 116
+loop 9425
+
+customsounb23 (bw2 kyurem string) 1687C38
+INST 115
+loop 10345
+
+customdrum27b (bw2 kyurem snare) 168C184
+
+inst 122 (guitar encounter team plasma) (customsounb2) (bw2 vg)
+
+inst 71 (hgss timpani) (bw2 vg)
+
+customsounb24 (enc colress drumloop)
+inst 71 (main) 168FFF4
+
+multi (bw2 slap bass)
+customsounb16 
+loop 11201 164FEFC
+customsounb25 
+loop 12081 1695DC8
+inst 28 
+Addr 1 169AB94
+Addr 2 169ABD0
+165 0 165 165
+
+marinetube
+customm1 
+loop 4201
+inst 10 169C5E0
+
+customm2
+loop 4897
+inst 102 169F9F4
+
+customm3
+loop 17825
+inst 110 16A2E68
+
+customm4
+loop 17753
+inst 101 16ABC0C
+
+customm5
+loop 7553
+inst 59 16B4D78
+
+multi 12
+customm6 loop 20186 16B8174
+customm7 loop 15705 16C090C
+customm8 loop 9973  16C7788
+address1 16ED0FC
+address2 16ED138
+
+drumperc marinetube
+custommb1 16CCE10
+custommb2 16CF344
+custommb3 16D0E48
+custommb4 16D4BAC
+custommb5 16DACB0
+custommb6 16DC5FC
+custommb7 16DDD40
+custommb8 16DF63C
+custommb9 16E2710
+custommb10 16E3F1C
+custommb11 16E8868
+custommb12 16EA0C4
+custommb13 16EB8B0
+
+customsounb26 (ranch1)
+Inst 95 16F2818
+
+customsounb27 (ranch2)
+Inst 94
+loop 4001 16F5BD4
+
+customdrumride
+loop 7553 16F7D78
+
+customsounb28 (bw2 guitar1)
+inst 90
+loop 3427 16FA324
+
+customsounb29 (bw2 guitar2)
+inst 91
+loop 2875 16FBA2C
+
+customsounb30 (bw2 guitar3)
+inst 92
+loop 3372 16FCEB0
+
+customsounb31 (bw2 guitar4)
+inst 93
+loop 2769 16FF0E8
+
+customsounb32 (castelia sewer loop) 1702C1C
+inst 99
+
+customsounb33 (pan flute)
+loop 5657
+inst 75 1709038
+
+customdrum82b 170C0E8
+customdrum83b 170F71C
+
+multi guitar?
+inst 97
+customsounb34
+loop 8523 1713F90
+customsounb35
+loop 10641 17170AC
+add1 1727198
+add2 17271B0
+
+multi squarelead
+inst 98
+customsounb36
+loop 5245 171E34C
+customsounb37
+loop 9614 1721704
+add1 1727230
+add2 1727254
+
+customsounb38 (strangehouse1)
+inst 104 172D028
+
+customsounb39
+inst 108
+loop 1 172F7CC
+
+customsounb40
+inst 107 1731B60
+
+customsounb41
+inst 106
+loop 1 1736ACC
+
+customsounb42
+inst 105
+loop 10833 1751C78
+
+customsounb43 (bw2 brass)
+inst 63
+loop 9075 175625C
+
+customsounb44 (new strings1)
+loop 7929
+175A910
+15ead00
+
+customsounb45 (new strings2)
+loop 14500
+176044C
+15f083c
+
+customsounb46 (new trumpet1)
+loop 9865
+17697E4
+15f9bd4
+
+customsounb47 (new trumpet2)
+loop 15635
+176E840
+15fec30
+
+customsounb48 (pwtkch1)
+loop 9569
+inst 62, 65
+177c11c
+
+customsounb49 (pwtjgl1)
+inst 124
+1783470
+
+customsounb50 (pwtjch1)
+inst 122
+178BFC8
+
+customsounb51 (pwtjch2)
+inst 123
+179303C
+
+customsounb52 (pwthgl1, irislead1)
+inst 97
+loop 7442
+179BCE0
+
+customsounb53 (pwthgl2)
+inst 40
+17A0F44
+
+customsounb54 (pwthgl3)
+inst 41
+17AAA00
+
+customsounb55 (pwthch1)
+inst 120
+LOOP 18527
+17B693C
+
+17BCF60
+
+12D4240

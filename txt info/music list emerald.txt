@@ -1,0 +1,218 @@
+270 TO 349 - FREE SPACE 
+
+350 - vs N Final - 
+351 - Battle Subway Trainer - 
+352 - Wild Pokemon Defeat - 
+353 - Wild Pokemon Defeat - 
+354 - Gym Leader Defeat - 
+356 - White Forest - 
+357 - Gate - 
+358 - vs N - 
+359 - Route 19 Spring - 
+360 - Route 4 Spring - 
+361 - Route 6 Spring - 
+362 - Nacrene City - 
+363 - Flocessy Town - 
+364 - Gym - 
+365 - Surfing - 
+366 - Chargestone Cave - 
+367 - Level Up - 
+368 - Healing - 
+369 - Badge Get - 
+370 - Item Get - 
+371 - Pokemon Caught - 
+372 - TM/HM Get - 
+374 - Welcome to the World of Pokemon / Route 4 - 
+376 - Evolve Start - 
+377 - Evolving - 
+378 - Fanfare 3 - 
+379 - Encounter Pokefan - 
+380 - Encounter Youngster - 
+381 - Opelucid City (Black) - 
+382 - Icirrus City - 
+383 - Prof Lab - 
+384 - PWT Lobby - 
+385 - Encounter Parasol Lady - 
+386 - Black City - 
+387 - Berry Get - 
+392 - Virbank City - 
+393 - Legendary Pokemon Battle - 
+397 - Encounter Gentleman - 
+398 - Lacunosa Town - 
+399 - Striaton City - 
+400 - Pokemon Center - 
+401 - Route 2 Spring - 
+402 - Route 23 - 
+403 - Bicycle - 
+404 - Shopping Mall / Mart - 
+405 - Aspertia City - 
+406 - Driftveil Drawbridge - 
+407 - Encounter Lass - 
+408 - Mistralton City - 
+409 - Relic Castle - 
+410 - Here Comes Trouble! - 
+411 - Dive/Ruins - 
+412 - Trainer Defeat - 
+413 - Title Screen - 
+414 - B2W2 Intro 1 - 
+415 - Encounter Bianca B2W2 - 
+416 - Encounter Clerk - 
+417 - Encounter Ace Trainer - 
+418 - Route 22 Spring - 16292E4 - 
+419 - Encounter Team Plasma B2W2 - 
+420 - Follow Me - 
+421 - Encounter Hugh - 
+422 - Pokemon League - 
+423 - Encounter Psychic - 
+424 - Plasma Defeat - 
+426 - Battle Subway - 
+427 - Anville Town - 
+428 - Lostlorn Forest - 
+429 - Victory Road - 
+430 - Team Plasma Appears - 
+431 - Cruiseferry SS Royal Unova - 
+432 - Dragonspiral Tower Top - 
+433 - Castelia City - 
+434 - Dragonspiral Tower - 
+436 - Hall of Fame - 
+437 - Driftveil City - 
+438 - Sealed Chamber (Regi) - 
+439 - Plasma Defeat - 
+441 - Encounter Team Plasma B2W2 - 
+442 - B2W2 Intro 2 - 
+445 - Humilau City - 
+449 - Encounter Twins - 
+451 - Encounter Backpacker - 
+455 - End Credits - 
+457 - Gear Station - 
+458 - Cold Storage - 
+459 - BP Get - 
+463 - N’s Castle - 
+465 - PWT Lobby - 
+468 - Tubeline Bridge - 
+469 - Marvelous Bridge - 
+470 - Kyurem Battle - 
+471 - PWT Finals! - 
+472 - Battle Rare Wild Pokemon - 
+473 - N’s Castle Bridge - 
+474 - Wild Battle B2W2 - 
+475 - Neo Plasma Battle - 
+476 - Trainer Battle B2W2 - 
+477 - Gym Leader Battle B2W2 - 
+478 - Champion Alder Battle - 
+479 - Regi Trio Battle - 
+480 - Reshiram/Zekrom Battle - 
+481 - Hugh Battle - 1654C10 - 
+482 - Elite Four Battle - 
+483 - vs Ghetsis B2W2 - 
+484 - Encounter Bianca - 
+485 - Ghetsis Battle - 
+486 - Team Plasma Appears - 
+487 - World Champion - 
+488 - Unwavering Emotions - 
+489 - Encounter Cyclist - 
+490 - Encounter Team Plasma - 
+491 - The Day I Became King - 
+492 - Intro - 
+495 - Encounter Champ Alder - 
+496 - Encounter Cyclist - 
+497 - Encounter N - 
+498 - Encounter Pokefan - 
+499 - Encounter Roughneck - 
+500 - Encounter Scientist - 
+501 - N's Farewell - 
+502 - Juniper Father - 
+503 - Gym Leader Last Pokemon - 
+504 - Undella Town Spring - 
+505 - Undella Town Summer - 
+506 - Village Bridge - 
+507 - Cynthia Battle - 
+508 - Gym Leader Battle BW - 
+509 - Trainer Battle BW - 
+510 - Wild Battle BW - 
+512 - Nuvema Town - 
+513 - N’s Room - 
+514 - Encounter Cynthia - 
+515 - The First Day - 
+517 - Team Plasma Battle - 
+518 - Encounter Sage - 
+519 - Encounter Ghetsis - 
+520 - Let's Go Together - 
+529 - Fanfare 3 - 
+530 - Key Item Get - 
+531 - Pokemon Caught - 
+533 - Gamefreak - 
+538 - Colress Battle - 
+539 - Rival Battle BW - 
+540 - Route 10 - 
+541 - Route 1 - 
+542 - Entralink - 
+543 - Unity Tower - 
+544 - Encounter Cheren B2W2 - 
+545 - Team Plasma, Again - 
+546 - Encounter Colress - 
+547 - Marine Tube - 
+548 - Encounter Cheren - 
+549 - Flocessy Ranch - 
+550 - Castelia Sewers - 
+551 - Dreamyard - 
+552 - Strange House - 
+553 - Skyarrow Bridge - 
+554 - Accumula Town - 
+555 - Battle Black/White Kyurem - 
+556 - Route 12 Spring - 
+557 - Kanto Gym Leader - 
+558 - Kanto Champion - 
+559 - Johto Gym Leader - 
+560 - Johto Champion - 
+561 - Hoenn Gym Leader - 
+562 - Hoenn Champion - 
+563 - Sinnoh Gym Leader - 
+564 - Sinnoh Champion - 
+565 - Champion Iris Battle - 
+566 - vs N B2W2 - 
+567 - Lentimas Town - 1806ED4 - 
+568 - Gym Leader Last Pokemon B2W2 - 
+569 - Road to Reversal Mountain - 
+570 - Reversal Mountain (Black2) - 
+571 - Reversal Mountain (White2) - 
+572 - Humilau City - 
+
+
+573	 An Adventure Is Beginning
+574	 Pokéstar Studios
+575	 Filming Underway at Pokéstar Studios
+576	 Trainers' Eyes Meet (Harlequin)
+577	 Winning in the PWT
+578	 PWT Victor
+579	 Aboard the Plasma Frigate
+580	 Zinzolin's Theme
+581	 Mistralton City Gym
+582	 Opelucid City Gym
+583	 Opelucid City Attacked
+584	 Frozen City
+585	 Plasma Frigate Sortie
+586	 Infiltrating the Plasma Frigate
+587	 N's Theme
+588	 Unova Link
+589	 Black Tower Entrance 
+590	 Black Tower
+591	 White Treehollow Entrance 
+592	 White Treehollow
+593	 Virbank City Gym
+594	 Castelia City Gym 
+595	 Driftveil City Gym 
+596	 Shadow Triad's Theme 
+597	 Humilau City Gym
+598	 N's Castle 
+599	 Nimbasa City Gym Runway 
+600	 Nimbasa City Gym Stage
+601	 Trainers' Eyes Meet (Beauty)
+602	 End Credits
+603	 The End 
+
+
+
+604 TO 609 - some speech thingy (FREE SPACE)
+
+90 - Low Health Beep - 

@@ -1,0 +1,179 @@
+334 TO 349 - FREE SPACE 
+
+299 - Wild Battle - 151F730
+300 - Team Plasma Battle - 150B894
+301 - Trainer Battle - 151B0A0
+302 - Gym Leader Battle - 1518B3C
+303 - Champion Alder Battle - 1521AF4
+304 - Legendary Pokemon Battle - 1552CB8
+305 - Rival Battle - 14F701C
+306 - Ghetsis Battle - 1561970
+307 - Route 10 - 153F66C - 1540D0C
+308 - Accumula Town - 1532080 - 153367C 
+309 - Route 12 Spring - 1563764 - 1564CB4
+310 - Nuvema Town - 1524428 - 15255D8
+311 - The Day I Became King - 157EAF4 - 157F584
+312 - Encounter Bianca - 1565B10 - 15667BC
+313 - Encounter Cheren - 15336A0 - 1534868
+314 - BP Get - 171B420 - 171BA8C
+315 - PWT Finals! - 16EE688 - 12FBF90
+316 - Rival Battle BW - 14F701C - 14F8A30
+317 - Marine Tube - 169AC56 - 169C5B0
+318 - Colress Battle - 162D4C0 - 1631480
+319 - Entralink - 1661D30 - 1662E90
+320 - Unity Tower - 1662EC4 - 1663F60
+321 - Battle Black/White Kyurem - 1680558 - 1683B08
+322 - Team Plasma, Again - 168F07C - 168FFD0
+323 - Encounter Colress - 1694CA0 - 1695D90
+324 - Flocessy Ranch - 1700CCC - 1701FAC
+325 - Castelia Sewers - 1712D98 - 1713F5C
+326 - Strange House - 1729834 - 172A9BC
+327 - Route 1 - 1511C84 - 1512FEC
+328 - Champion Alder Battle - 1521AF4 - 15243F4
+329 - Opelucid City (White) - 1539E30 - 153CB54
+330 - Lentimas Town - 1806ED4 - 1808260
+331 - Road to Reversal Mountain - 182EB50 - 182F828
+332 - Reversal Mountain (Black2) - 1840250 - 1841110
+333 - Reversal Mountain (White2) - 184113C - 18429AC
+350 - vs N Final - 155D760
+351 - Battle Subway Trainer - 1559E6C
+352 - Wild Pokemon Defeat - 1530638
+353 - Wild Pokemon Defeat - 1530638
+354 - Gym Leader Defeat - 1531090
+356 - White Forest - 1567AA8
+357 - Gate - 155954C
+358 - vs N - 1534890
+359 - Route 19 Spring - 165ADA8 - 165C6C4
+360 - Route 4 Spring - 1583E84
+361 - Route 6 Spring - 15159C0
+362 - Virbank City - 165C6F4 - 165D8C8
+363 - Flocessy Town - 1701FDC - 1702BF0
+364 - Gym - 14FCEB4
+365 - Surfing - 1528E64
+366 - Chargestone Cave - 150A8D0
+367 - Level Up - 15936B4 
+368 - Healing - 14C0BF0
+369 - Badge Get - 14F2A60
+370 - Item Get - 15938C0 
+371 - Pokemon Caught - 14C18C8
+372 - TM/HM Get - 14F2F64
+374 - Welcome to the World of Pokemon / Route 4 - 1513018
+376 - Evolve Start - 14F3790
+377 - Evolving - 14F386C
+378 - Fanfare 3 - 15E8CA8 
+379 - Encounter Pokefan - 1574EEC
+380 - Encounter Youngster - 1507334
+381 - Opelucid City (Black) - 1536280
+382 - Icirrus City - 1331B90
+383 - Prof Lab - 1525600
+384 - PWT Lobby - 172A9EC - 172CFF4
+385 - Encounter Parasol Lady - 1554D88
+386 - Black City - 15667E4
+387 - Berry Get - 14F3408
+392 - Nacrene City - 152C840 - 152E308
+393 - Legendary Pokemon Battle - 1552CB8 - 1554D2C
+397 - Encounter Gentleman - 1573A78
+398 - Lacunosa Town - 1504150
+399 - Striaton City - 1547714
+400 - Pokemon Center - 15274DC
+401 - Route 2 Spring - 15144AC
+402 - Route 23 - 162B170 - 162D488
+403 - Bicycle - 1504F30
+404 - Shopping Mall / Mart - 157737C
+405 - Aspertia City - 15F0088 - 15F1FD0 
+406 - Driftveil Drawbridge - 1542178
+407 - Encounter Lass - 1506978
+408 - Mistralton City - 1549638
+409 - Relic Castle - 1544160
+410 - Here Comes Trouble! - 1595DA8
+411 - Dive/Ruins - 157AC24
+412 - Trainer Defeat - 152FD54
+413 - Title Screen - 14FF1AC
+414 - B2W2 Intro 1 - 1663F90 - 1665588
+415 - Encounter Bianca B2W2 - 166C240 - 166D2CC
+416 - Encounter Clerk - 1572944
+417 - Encounter Ace Trainer - 15701D0
+418 - Route 22 Spring - 16292E4 - 162B144
+419 - Encounter Team Plasma B2W2 - 168DFC8 - 168F030
+420 - Follow Me - 14FB0A0
+421 - Encounter Hugh - 16ED1B8 - 16EE630 
+422 - Pokemon League - 15557CC
+423 - Encounter Psychic - 157581C
+424 - Plasma Defeat - 157D458
+426 - Battle Subway - 151E3B0
+427 - Anville Town - 1568A34 - 156A318
+428 - Lostlorn Forest - 157F5BC
+429 - Victory Road - 1516C7C
+430 - Team Plasma Appears - 14FBB48
+431 - Cruiseferry SS Royal Unova - 1528424
+432 - Dragonspiral Tower Top - 1579970
+433 - Castelia City - 14F0A90
+434 - Dragonspiral Tower - 152A374
+436 - Hall of Fame - 1507A38
+437 - Driftveil City - 1548324
+438 - Sealed Chamber (Regi) - 17287FC - 172978C
+439 - Plasma Defeat - 157D458
+441 - Encounter Team Plasma B2W2 - 168DFC8 - 168F030
+442 - B2W2 Intro 2 - 16655BC - 1665FDC
+
+445 - Humilau City - 17F2A80 - 17F55A8
+
+449 - Encounter Twins - 1576A94
+451 - Encounter Backpacker - 1570E90
+455 - End Credits - 150E56C
+457 - Wild Battle B2W2 - 15EA560 - 15ECAE8
+458 - Neo Plasma Battle - 161E93C - 16224B4
+459 - Trainer Battle B2W2 - 15ECB1C - 15F0050
+460 - Gym Leader Battle B2W2 - 161BDBC - 161E900
+
+461 - Champion Iris Battle - 17DD9B4 - 17DFDB4
+
+462 - Regi Trio Battle - 17272D4 - 17287C4
+463 - Reshiram/Zekrom Battle - 154FA6C
+464 - Hugh Battle - 1654C10 - 16574E0
+465 - Elite Four Battle - 14F4758
+466 - vs Ghetsis B2W2 - 166D2F4 - 166F998
+467 - Kyurem Battle - 154C690
+468 - World Champion - 15561DC
+469 - Battle Rare Wild Pokemon - 14F8A68
+470 - N’s Castle Bridge - 153CB80
+471 - Gear Station - 156BADC
+472 - Cold Storage - 152B5E4
+473 - Skyarrow Bridge - 1540D38
+474 - N’s Castle - 153DD68
+475 - Tubeline Bridge - 154595C
+476 - Marvelous Bridge - 15469CC
+477 - Unwavering Emotions - 14FDED4
+478 - Encounter Champ Alder - 15714A8
+479 - Encounter Cyclist - 15730C8
+480 - Encounter N - 157463C
+481 - Encounter Roughneck - 15760FC
+482 - Encounter Scientist - 151EF34
+483 - N's Farewell - 1558690
+484 - Juniper Father - 1578A20
+485 - Gym Leader Last Pokemon - 156E184
+486 - Undella Town Spring - 1564CE4
+487 - Undella Town Summer - 158D068
+488 - Village Bridge - 156A348
+489 - N’s Room - 157E670
+490 - Gamefreak - 14C1054
+491 - The First Day - 1593DB4 - nv
+492 - Let's Go Together - 15941B0
+493 - Encounter Sage - 1596D28 
+494 - Encounter Cynthia - 15974EC - nv
+495 - Cynthia Battle - 1598C5C
+496 - Encounter Ghetsis - 159B26C - nv
+497 - Kanto Gym Leader - 1776BF0 - 1778A9C
+498 - Kanto Champion - 1778B6C - 177C064
+499 - Johto Gym Leader - 1780FB8 - 1783438
+500 - Johto Champion - 178A3AC - 178BF94
+501 - Hoenn Gym Leader - 179A0B0 - 179BCAC
+502 - Hoenn Champion - 17B44BC - 17B690C
+503 - Sinnoh Gym Leader - 17D7B50 - 17DAB38
+504 - Sinnoh Champion - 17DAB74 - 17DD978
+505 - vs N B2W2 - 1803D2C - 1806E98
+506 - Gym Leader Last Pokemon B2W2 - 180828C - 180A5A8
+
+248 TO 298 - some speech thingy (FREE SPACE)
+
+90 - Low Health Beep - 17297C0 - 1729824

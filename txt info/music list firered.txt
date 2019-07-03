@@ -1,0 +1,250 @@
+256 - Healing - 
+257 - Level Up - 
+258 - Item Get - 
+259 - Pokemon Caught - 
+260 - Badge Get - 
+261 - TM/HM Get - 
+262 - Berry Get - 
+263 - Evolution Start - 
+264 - Evolving - 
+265 - Elite Four Battle - 
+266 - Rival Battle - 
+267 - Battle Rare Wild Pokemon - 
+270 - Move Delete Fanfare - 
+272 - Follow Me - 
+273 - Battle Subway - 
+274 - Team Plasma, Again - 
+275 - Gym - 14FCEB4
+276 - Unwavering Emotions - 
+277 - Intro - 
+278 - Title Screen - 
+279 - Undella Town Summer - 
+280 - Lacunosa Town - 
+282 - Bicycle - 
+283 - Encounter Scientist - 
+284 - Encounter Lass - 
+285 - Encounter Youngster - 
+286 - Hall of Fame - 
+287 - Dreamyard - 
+288 - Chargestone Cave - 
+289 - Strange House - 
+290 - End Credits - 
+291 - Route 19 Spring - 
+292 - Welcome to the World of Pokémon / Route 4 - 
+293 - Route 2 Spring - 
+294 - Route 6 Spring - 
+295 - Victory Road - 
+296 - Gym Leader Battle B2W2 - 
+297 - Trainer Battle B2W2 - 
+298 - Wild Battle B2W2 - 
+299 - Champion Iris Battle - 
+300 - Aspertia City - 
+301 - Prof Lab - 
+302 - Prof Theme - 
+303 - Pokémon Center - 
+304 - Cruiseferry SS Royal Unova - 
+305 - Surfing - 
+306 - Dragonspiral Tower - 
+307 - Cold Storage - 
+308 - Virbank City - 
+309 - Nimbasa City - 
+310 - Trainer Defeat - 
+311 - Wild Defeat - 
+312 - Gym Leader Defeat - 
+313 - Castelia City - 
+314 - Flocessy Town - 
+315 - Encounter Hugh - 
+316 - Encounter Hugh - 
+317 - Fanfare 3 - 
+318 - Key Item Get - 
+321 - Gamefreak - 
+326 - N's Castle Bridge - 
+327 - N's Castle - 
+328 - Tubeline Bridge - 
+329 - Skyarrow Bridge - 
+330 - Icirrus City - 
+331 - Driftveil Drawbridge - 
+332 - Relic Castle - 
+333 - Route 10 - 
+334 - Marvelous Bridge - 
+335 - Striaton City - 
+336 - Driftveil City - 
+337 - Mistralton City - 
+339 - Kyurem Battle - 
+340 - Reshiram/Zekrom Battle - 
+341 - Legendary Pokemon Battle - 
+342 - Encounter Ace Trainer - 15701D0 - 
+343 - Pokemon League - 
+344 - PWT Lobby - 172A9EC - 
+345 - N's Farewell - 
+346 - Gate - 
+347 - Battle Subway Trainer - 
+348 - vs N Final - 
+349 - vs Ghetsis - 
+350 - Route 12 Spring - 
+351 - Undella Town Spring - 
+352 - Encounter Bianca - 
+353 - Black City - 
+354 - White Forest - 
+355 - Anville Town - 
+356 - Village Bridge - 
+357 - Gear Station - 
+358 - Gym Leader Last Pokemon - 
+359 - Encounter Parasol Lady - 
+360 - Encounter Backpacker - 
+361 - Encounter Champ Alder - 
+362 - Encounter Clerk - 
+363 - Encounter Cyclist - 
+364 - Encounter Gentleman - 
+365 - Encounter N - 
+366 - Encounter PokeFan - 
+367 - Encounter Psychic - 
+368 - Encounter Roughneck - 
+369 - Encounter Twins - 
+370 - Shopping Mall / Mart - 
+371 - Juniper Father Theme - 
+372 - Dragonspiral Tower Top - 
+373 - Low Health - 
+374 - Dive/Ruins - 
+375 - Encounter Team Plasma - 
+376 - Plasma Defeat - 
+377 - N’s Room - 
+378 - The Day I Became King - 
+379 - Lostlorn Forest - 
+380 - vs N - 
+381 - Opelucid City (Black) - 
+382 - Opelucid City (White) - 
+383 - The First Day - 
+384 - Let's Go Together - 
+385 - Here Comes Trouble! - 
+386 - Encounter Sage - 
+387 - Encounter Cynthia - 
+388 - Cynthia Battle - 
+389 - Encounter Ghetsis - 
+390 - Wild Battle BW - 
+391 - Trainer Battle BW - 
+392 - Nuvema Town - 
+393 - Gym Leader Battle BW - 
+394 - Neo Plasma Battle - 
+395 - Route 22 Spring - 
+396 - Route 23 - 
+397 - Colress Battle - 
+398 - Hugh Battle - 
+399 - Route 1 - 
+400 - Nacrene City - 
+401 - Entralink - 
+402 - Unity Tower - 
+403 - B2W2 Intro 1 - 
+404 - B2W2 Intro 2 - 
+405 - Encounter Cheren B2W2 - 
+406 - Encounter Bianca B2W2 - 
+407 - vs Ghetsis B2W2 - 
+408 - Battle Black/White Kyurem - 
+409 - Encounter Team Plasma B2W2 - 
+410 - Team Plasma Appears - 
+411 - Encounter Colress - 
+412 - Marine Tube - 
+413 - Encounter Cheren BW - 
+414 - PWT Finals! - 
+415 - Flocessy Ranch - 
+416 - Accumula Town - 
+417 - Castelia Sewers - 
+418 - BP Get - 
+419 - Regi Trio Battle - 
+420 - Sealed Chamber (Regi) - 
+421 - Team Plasma Battle BW - 
+422 - World Champion - 
+423 - Kanto Gym Leader - 
+424 - Kanto Champion - 
+425 - Johto Gym Leader - 
+426 - Johto Champion - 
+427 - Hoenn Gym Leader - 
+428 - Hoenn Champion - 
+429 - Sinnoh Gym Leader - 
+430 - Sinnoh Champion - 
+431 - Champion Alder Battle - 
+432 - Humilau City - 
+433 - vs N B2W2 - 
+434 - Lentimas Town - 
+435 - Gym Leader Last Pokemon B2W2 - 
+436 - Road to Reversal Mountain - 
+437 - Reversal Mountain (Black2) - 
+438 - Reversal Mountain (White2) - 
+
+v1.5
+439 - An Adventure Is Beginning - 1852110 - 1852FC4
+440 - Pokéstar Studios - 1852FF0 - 1854790
+441 - Filming Underway at Pokéstar Studios - 18547C4 - 1856310
+442 - Trainers' Eyes Meet (Harlequin) - 1856330 - 1856860
+443 - Winning in the PWT - 1856880 - 1857270
+444 - PWT Victor - 18572A4 - 1857F48
+445 - Aboard the Plasma Frigate - 1857F80 - 185950C
+446 - Zinzolin's Theme - 1859540 - 1859C04
+447 - Mistralton City Gym - 1859C30 - 185AFCC
+448 - Opelucid City Gym - 185B000 - 185B9B8
+449 - Opelucid City Attacked - 185B9F0 - 185C31C
+450 - Frozen City - 185C350 - 185CF30
+451 - Plasma Frigate Sortie - 185CF70 - 185D9B0
+452 - Infiltrating the Plasma Frigate - 185D9E0 - 185F2D4
+453 - N's Theme - 185F310 - 18606D8
+454 - Unova Link - 1860708 - 1861438
+455 - Black Tower Entrance - 1861460 - 186194C
+456 - Black Tower - 1861970 - 1863088
+457 - White Treehollow Entrance - 18630B0 - 1863A04
+458 - White Treehollow - 1863A30 - 18651C0
+459 - Virbank City Gym - 18ACC54 - 18AE1DC
+460 - Castelia City Gym - 18E66E0 - 18E712C
+461 - Driftveil City Gym - 19423FC - 1942F88
+462 - Shadow Triad's Theme - 1942FD0 - 1943AF4
+463 - Humilau City Gym - 194A738 - 194B494
+464 - N's Castle - 194B564 - 194BF58
+465 - Nimbasa City Gym Runway - 19DFB30 - 19E0364
+466 - Nimbasa City Gym Stage - 19E0394 - 19E19D8
+467 - Trainers' Eyes Meet (Beauty) - 19E1A10 - 19E202C
+468 - End Credits - 19E2070 - 19E8E3C
+469 - The End - 19E8E78 - 19E9468
+
+439 - An Adventure Is Beginning
+440 - Pokéstar Studios
+441 - Filming Underway at Pokéstar Studios
+442 - Trainers' Eyes Meet (Harlequin)
+443 - Winning in the PWT
+444 - PWT Victor
+445 - Aboard the Plasma Frigate
+446 - Zinzolin's Theme
+447 - Mistralton City Gym
+448 - Opelucid City Gym
+449 - Opelucid City Attacked
+450 - Frozen City
+451 - Plasma Frigate Sortie
+452 - Infiltrating the Plasma Frigate
+453 - N's Theme
+454 - Unova Link
+455 - Black Tower Entrance 
+456 - Black Tower
+457 - White Treehollow Entrance 
+458 - White Treehollow
+459 - Virbank City Gym
+460 - Castelia City Gym 
+461 - Driftveil City Gym 
+462 - Shadow Triad's Theme 
+463 - Humilau City Gym
+464 - N's Castle 
+465 - Nimbasa City Gym Runway 
+466 - Nimbasa City Gym Stage
+467 - Trainers' Eyes Meet (Beauty)
+468 - End Credits
+469 - The End 
+
+
+
+
+83 - Low Health Beep - 
+
+
+1321390
+
+12fbf90
+14bf8f0
+16f27f8
+16f2818
