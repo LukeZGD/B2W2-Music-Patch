@@ -1,5 +1,8 @@
 ## Changelogs:
 
+## Changes in v1.5.1:
+- Add music "The PWT"
+
 ## Changes in v1.5:
 - Added a higher quality Electric Snare sample
 - More accurate sample map for Route 23 French Horn

@@ -203,6 +203,7 @@ v1.5
 467 - Trainers' Eyes Meet (Beauty) - 19E1A10 - 19E202C
 468 - End Credits - 19E2070 - 19E8E3C
 469 - The End - 19E8E78 - 19E9468
+470 - The PWT - 19E9488 - 19E9D38
 
 439 - An Adventure Is Beginning
 440 - Pokéstar Studios
