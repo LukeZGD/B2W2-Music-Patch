@@ -3,6 +3,7 @@
 ## Changes in v1.5:
 - Added a higher quality Electric Snare sample
 - More accurate sample map for Route 23 French Horn
+- Fix "BP Get" song header
 - More B2W2 music added:
 - An Adventure Is Beginning
 - Pokéstar Studios
