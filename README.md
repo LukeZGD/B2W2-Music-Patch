@@ -5,3 +5,5 @@
 ### [Downloads are in the releases](https://github.com/LukeZGD/B2W2-Music-Patch/releases)
 
 ### [Click here for more info in the PokeCommunity thread](https://www.pokecommunity.com/showthread.php?t=402253)
+
+#### [Older versions are in the Archive Repo](https://github.com/LukeZGD/B2W2-Music-Patch-Archive)
