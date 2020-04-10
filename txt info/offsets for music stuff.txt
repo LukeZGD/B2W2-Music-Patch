@@ -1,12 +1,23 @@
--- CHANGE TRACK LIMIT FROM 10 TO 16
+** FOR MUSIC HACKING TUTORIAL USERS **
+-- Offset for changing track limit from 10 to 16 
 RUBY    0x455474
 EMERALD 0x6B49C4
 FIRERED 0x4A32A0
 replace XX XX XX 03 0A with 00 E0 03 02 10
 
--- CHANGE DIRECTSOUND LIMIT
+-- Change DirectSound limit
 search 00 C5 94 00
 change C5 to CC (FR/LG/E) or C7 (R/S)
+
+***
+** MORE ADVANCED STUFF BELOW **
+***
+
+
+
+
+
+
 
 -- CHANGE BASE NOTE OF SAMPLES
 8th byte of sample header (change octave)

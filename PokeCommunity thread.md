@@ -1,26 +1,27 @@
-[S][/S][B]Pokemon FireRed, LeafGreen, Emerald, Ruby, and Sapphire - BW/B2W2 Music Patch![/B]
+# BW/B2W2 Music Patch!
 
-[B]BW/B2W2 Music Patch[/B] is a patch for Pokemon FireRed (1.0), LeafGreen (1.0), Emerald, Ruby (1.0 and 1.1), and Sapphire (1.0) that replaces the original songs with the ones from Pokemon Black and White, and from Black 2 and White 2! Most of the songs and fanfares are included.
+**BW/B2W2 Music Patch** is a patch for Pokemon FireRed (1.0), LeafGreen (1.0), Emerald, Ruby (1.0 and 1.1), and Sapphire (1.0) that replaces the original songs with the ones from Pokemon Black and White, and from Black 2 and White 2! Most of the songs and fanfares are included.
+
 This patch is based on the HGSS Music Patch (Emerald v1.4 Instruments.bit), so big credits to the creators of it!
 
--  For the songs that change every season, only the Spring version is included in this patch. 
+- For the songs that change every season, only the Spring version is included in this patch. 
 - This patch includes ipatix's music mixer, and it makes the music have less noise. This is not included in Ruby versions as it is causing issues.
 - The Ruby and Sapphire versions will have problems playing the music because of limitations.
 
-[B]Compatibility with other patches/ROM bases:[/B]
+**Compatibility with other patches/ROM bases:**
 - This patch is compatible with the All Instrument Patch, where you can insert songs with a universal All Instrument voicegroup on top of the B2W2 ones.
 - When using this patch with Leon and UltimaSoul's FireRed Base, follow instructions included with the ROM base first before applying this patch!
 
-[B]Please make backups before applying this patch! I am not responsible if you ruin your ROM after applying.[/B]
-[B]If you are applying this to an already hacked ROM, I recommend to use the manual patching method instead of the UPS patches.[/B]
+- **Please make backups before applying this patch! I am not responsible if you ruin your ROM after applying.**
+- **If you are applying this to an already hacked ROM, I recommend to use the manual patching method instead of the UPS patches.**
 
-[B]How to patch (VIDEO TUTORIAL):[/B] [url]https://www.youtube.com/watch?v=AlvciV-vml8&t=477[/url]
+**How to patch (VIDEO TUTORIAL):** [url]https://www.youtube.com/watch?v=AlvciV-vml8&t=477[/url]
 
-[B]How to patch (UPS):[/B]
+**How to patch (UPS):**
 Apply the UPS patch to your ROM using NUPS patcher. Pick Ignore for "If file is invalid" so no error will occur. 
 
-[B]How to patch (MANUAL): [/B]
-Extending the ROM is REQUIRED, do this before proceeding. XSE is what I use to do this.
+**How to patch (MANUAL):**
+- Extending the ROM is REQUIRED, do this before proceeding. XSE is what I use to do this.
 1. Apply the .ips patch to your ROM (Use the correct one!)
 2. Open the file "BW/B2W2 Music Patch v1.x.x.bit" in HxD.
 3. Select all of the contents (Ctrl+A) and copy it (Ctrl+C).
@@ -28,27 +29,26 @@ Extending the ROM is REQUIRED, do this before proceeding. XSE is what I use to d
 5. Go to (Ctrl+G) 1200000 and paste-write (Ctrl+B) the copied content there.
 6. Save!
 
-[B]Songtable offsets, music mixer locations, and changelogs are in the readme included.[/B]
+- **Songtable offsets, music mixer locations, and changelogs are in the readme included.**
 
-[B]To play in Sappy without any issues do the following: [/B]
+- **To play in Sappy without any issues do the following: **
 Sappy Mod 15 - 17.1 -> Options -> Settings -> Extra -> DirectSound Voices Limit = 12
 You should also back up your sappy.xml file and replace it with the one included in the zip.
 
-[B]Credits:[/B]
-[B]LukeeGD[/B] (ripped and inserted all of the music and most of the samples from BW/B2W2)
-[B]GoGoJJTech, Wobbu[/B] (HGSS Music Patch)
-[B]ipatix[/B] (midfix4agb and the music mixer ASM hack)
+### Credits:
+- **LukeeGD** (ripped and inserted all of the music and most of the samples from BW/B2W2)
+- **GoGoJJTech, Wobbu** (HGSS Music Patch)
+- **ipatix** (midfix4agb and the music mixer ASM hack)
 
-[B]Full Song List: [/B]
-[SPOILER]
+<details><summary>Full Song List:</summary><p>
  - All of the songs not listed here will be same as the original.
  - All of the songs listed are in DECIMAL, not hexadecimal.
  - The base destination offsets and song headers (not all) of the songs are also listed. 
 
-[B]v1.5.1 (added songs only)[/B]
-[SPOILER]
-[B]FireRed[/B]
-[SPOILER]
+<details><summary>v1.5.1 (added songs only)</summary><p>
+<details><summary>FireRed</summary><p>
+
+```
 439 - An Adventure Is Beginning - 1852110 - 1852FC4
 440 - Pokéstar Studios - 1852FF0 - 1854790
 441 - Filming Underway at Pokéstar Studios - 18547C4 - 1856310
@@ -81,10 +81,12 @@ You should also back up your sappy.xml file and replace it with the one included
 468 - End Credits - 19E2070 - 19E8E3C
 469 - The End - 19E8E78 - 19E9468
 470 - The PWT - 19E9488 - 19E9D38
-[/SPOILER]
+```
 
-[B]Emerald[/B]
-[SPOILER]
+</p></details>
+<details><summary>Emerald</summary><p>
+
+```
 573	 An Adventure Is Beginning
 574	 Pokéstar Studios
 575	 Filming Underway at Pokéstar Studios
@@ -116,14 +118,16 @@ You should also back up your sappy.xml file and replace it with the one included
 601	 Trainers' Eyes Meet (Beauty)
 602	 End Credits
 603	 The End 
-604  The PWT
-[/SPOILER]
-[/SPOILER]
+604	 The PWT
+```
 
-[B]v1.4.1 and later:[/B]
-[SPOILER]
-[B]FireRed/LeafGreen:[/B]
-[SPOILER]
+</p></details>
+</p></details>
+
+<details><summary>v1.4.1 and later:</summary><p>
+<details><summary>FireRed/LeafGreen:</summary><p>
+
+```
 256 - Healing - 14C0BF0
 257 - Level Up - 15936B4
 258 - Item Get - 15938C0
@@ -299,10 +303,12 @@ You should also back up your sappy.xml file and replace it with the one included
 438 - Reversal Mountain (White2) - 184113C - 18429AC
 
 83 - Low Health Beep - 17297C0 - 1729824
- 
-[/SPOILER]
-[B]Emerald:[/B]
-[SPOILER]
+```
+
+</p></details>
+<details><summary>Emerald:</summary><p>
+
+```
 270 TO 349 - FREE SPACE 
 
 350 - vs N Final - 155D760
@@ -486,10 +492,13 @@ You should also back up your sappy.xml file and replace it with the one included
 559 TO 609 - some speech thingy (FREE SPACE)
 
 90 - Low Health Beep - 17297C0 - 1729824
+```
 
-[/SPOILER]
-[B]Ruby/Sapphire:[/B]
-[SPOILER]
+</p></details>
+**Ruby/Sapphire:**
+<details><summary>How do I dropdown?</summary><p>
+
+```
 334 TO 349 - FREE SPACE 
 
 299 - Wild Battle - 151F730
@@ -669,14 +678,17 @@ You should also back up your sappy.xml file and replace it with the one included
 248 TO 298 - some speech thingy (FREE SPACE)
 
 90 - Low Health Beep - 17297C0 - 1729824
+```
 
-[/SPOILER]
-[/SPOILER]
+</p></details>
+</p></details>
 
-[B]v1.2.3:[/B]
-[SPOILER]
-[B]FireRed/LeafGreen:[/B]
-[SPOILER]
+
+<details><summary>v1.2.3:</summary><p>
+
+<details><summary>FireRed/LeafGreen:</summary><p>
+
+```
 256 - Healing - 14C0BF0
 257 - Level Up - 15936B4
 258 - Item Get - 15938C0
@@ -802,10 +814,14 @@ You should also back up your sappy.xml file and replace it with the one included
 389 - Encounter Ghetsis - 159B26C
 390 - Entralink - 1661D30 - 1662E90
 391 - Unity Tower - 1662EC4 - 1663F60
-[/SPOILER]
+```
 
-[B]Emerald:[/B]
-[SPOILER]
+</p></details>
+
+
+<details><summary>Emerald:</summary><p>
+
+```
 348 - Entralink - 1661D30 - 1662E90
 349 - Unity Tower - 1662EC4 - 1663F60
 350 - vs N Final - 155D760
@@ -936,10 +952,13 @@ You should also back up your sappy.xml file and replace it with the one included
 530 - Key Item Get - 15E8FF4
 531 - Pokemon Caught - 14C18C8
 533 - Gamefreak - 14C1054
-[/SPOILER]
+```
 
-[B]Ruby/Sapphire:[/B]
-[SPOILER]
+</p></details>
+
+<details><summary>Ruby/Sapphire:</summary><p>
+
+```
 348 - Entralink - 1661D30 - 1662E90
 349 - Unity Tower - 1662EC4 - 1663F60
 350 - vs N Final - 155D760
@@ -1064,15 +1083,20 @@ You should also back up your sappy.xml file and replace it with the one included
 494 - Encounter Cynthia - 15974EC - nv
 495 - Cynthia Battle - 1598C5C
 496 - Encounter Ghetsis - 159B26C - nv
-[/SPOILER]
-[/SPOILER]
+```
 
-[/SPOILER]
+</p></details>
+</p></details>
 
-[B]All of the downloads/releases, source files, and more information are [URL="https://github.com/LukeZGD/B2W2-Music-Patch"]in the Github repo[/URL][/B]
-[B]v1.5.1[/B] is the latest version.
-[B]v1.2.3[/B] has BW music only.
+</p></details>
 
-When using anything in the repo, please give credit to me and others.
+- **All of the downloads/releases, source files, and more information are [URL="https://github.com/LukeZGD/B2W2-Music-Patch"]in the Github repo[/URL]**
+- **v1.5.1** is the latest version.
+- **v1.2.3** has BW music only.
 
-[B]Programs Used:[/B] FL Studio, Anvil Studio, VGMTrans, Viena, midfix4agb, HxD, Mid2Agb, Sappy
+### Programs Used:
+- FL Studio, Anvil Studio, VGMTrans, Viena, midfix4agb, HxD, Mid2Agb, Sappy
+
+### When using anything in the repo, please give credit to me and others.
+
+
