@@ -15,10 +15,10 @@ This patch is based on the HGSS Music Patch (Emerald v1.4 Instruments.bit), so b
 - **Please make backups before applying this patch! I am not responsible if you ruin your ROM after applying.**
 - **If you are applying this to an already hacked ROM, I recommend to use the manual patching method instead of the UPS patches.**
 
-**How to patch (VIDEO TUTORIAL):** [url]https://www.youtube.com/watch?v=AlvciV-vml8&t=477[/url]
+**How to patch (VIDEO TUTORIAL):** https://www.youtube.com/watch?v=AlvciV-vml8&t=477
 
 **How to patch (UPS):**
-Apply the UPS patch to your ROM using NUPS patcher. Pick Ignore for "If file is invalid" so no error will occur. 
+- Apply the UPS patch to your ROM using NUPS patcher. Pick Ignore for "If file is invalid" so no error will occur. 
 
 **How to patch (MANUAL):**
 - Extending the ROM is REQUIRED, do this before proceeding. XSE is what I use to do this.
@@ -31,8 +31,7 @@ Apply the UPS patch to your ROM using NUPS patcher. Pick Ignore for "If file is 
 
 - **Songtable offsets, music mixer locations, and changelogs are in the readme included.**
 
-- **To play in Sappy without any issues do the following: **
-Sappy Mod 15 - 17.1 -> Options -> Settings -> Extra -> DirectSound Voices Limit = 12
+- **To play in Sappy without any issues do the following:** Sappy Mod 15 - 17.1 -> Options -> Settings -> Extra -> DirectSound Voices Limit = 12
 You should also back up your sappy.xml file and replace it with the one included in the zip.
 
 ### Credits:
@@ -1090,7 +1089,7 @@ You should also back up your sappy.xml file and replace it with the one included
 
 </p></details>
 
-- **All of the downloads/releases, source files, and more information are [URL="https://github.com/LukeZGD/B2W2-Music-Patch"]in the Github repo[/URL]**
+- **All of the downloads/releases, source files, and more information are in this Github repo**
 - **v1.5.1** is the latest version.
 - **v1.2.3** has BW music only.
 
