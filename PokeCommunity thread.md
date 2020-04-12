@@ -40,17 +40,19 @@ You should also back up your sappy.xml file and replace it with the one included
 - **ipatix** (midfix4agb and the music mixer ASM hack)
 
 <details><summary>Full Song List:</summary><p>
- - All of the songs not listed here will be same as the original.
- - All of the songs listed are in DECIMAL, not hexadecimal.
- - The base destination offsets and song headers (not all) of the songs are also listed. 
+ <ul>
+  <li>All of the songs not listed here will be same as the original.</li>
+  <li>All of the songs listed are in DECIMAL, not hexadecimal.</li>
+  <li>The base destination offsets and song headers (not all) of the songs are also listed. </li>
+ </ul>
 
-<details><summary>v1.5.1 (added songs only)</summary><p>
-<details><summary>FireRed</summary><p>
+<details><summary>v1.5.1 (added songs only):</summary><p>
+<details><summary>FireRed:</summary><p>
 
 ```
 439 - An Adventure Is Beginning - 1852110 - 1852FC4
-440 - Pokéstar Studios - 1852FF0 - 1854790
-441 - Filming Underway at Pokéstar Studios - 18547C4 - 1856310
+440 - PokÃ©star Studios - 1852FF0 - 1854790
+441 - Filming Underway at PokÃ©star Studios - 18547C4 - 1856310
 442 - Trainers' Eyes Meet (Harlequin) - 1856330 - 1856860
 443 - Winning in the PWT - 1856880 - 1857270
 444 - PWT Victor - 18572A4 - 1857F48
@@ -83,12 +85,12 @@ You should also back up your sappy.xml file and replace it with the one included
 ```
 
 </p></details>
-<details><summary>Emerald</summary><p>
+<details><summary>Emerald:</summary><p>
 
 ```
 573	 An Adventure Is Beginning
-574	 Pokéstar Studios
-575	 Filming Underway at Pokéstar Studios
+574	 PokÃ©star Studios
+575	 Filming Underway at PokÃ©star Studios
 576	 Trainers' Eyes Meet (Harlequin)
 577	 Winning in the PWT
 578	 PWT Victor
@@ -494,8 +496,7 @@ You should also back up your sappy.xml file and replace it with the one included
 ```
 
 </p></details>
-**Ruby/Sapphire:**
-<details><summary>How do I dropdown?</summary><p>
+<details><summary>Ruby/Sapphire:</summary><p>
 
 ```
 334 TO 349 - FREE SPACE 
